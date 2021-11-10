@@ -1,0 +1,14 @@
+body{background-color: lightcoral ;}
+header{background-color: #337833;text-align: center; font-size-adjust: inherit;}
+section{background-color:lightsalmon;font-style: oblique;text-align: justify;}
+#add{background-color: lavenderblush;margin-top: 100px;margin-bottom: 100px;}
+div{background-color: rgb(91, 182, 177);text-align: center;padding: 15px;
+margin: 30px; border: lightpink dashed 8px;}
+h1{background-color: lightyellow;color: maroon;text-align: center;}
+h2{background-color: linen; text-decoration: wavy;}
+p{background-color: mediumturquoise;font-family: 'Gill Sans', 'Gill Sans MT','Trebuchet MS', sans-serif;border: lawngreen;}
+#sec2{background-color: olivedrab;}
+img{text-align: center;}
+p.uppercase{text-transform: uppercase;}
+p.capitalize{text-transform:capitalize;}
+.shado{text-shadow: lawngreen 7px 2px 10px;}
